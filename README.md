@@ -1,6 +1,6 @@
 # ShellCode Simplified: A Journey into Shellcode Analysis
 
-I recently had solved a CTF challenge on CyberDefeners, and I can't wait to share my writeup with all of you. 🚀✨
+Recently, I had solved a CTF challenge on CyberDefeners, and I can't wait to share my writeup with all of you. 🚀✨
 
 While I was solving the CTF I faced a ShellCode which is part of an exploit used to exploit a vulnerability CVE-2017-11882 :bomb:. This vulnerability is found in many Microsoft office products in different versions.
 
